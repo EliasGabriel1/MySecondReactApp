@@ -1,0 +1,21 @@
+img{
+    width: 235px;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.News{
+    margin: 0 10px;
+}
+.News> p{
+    margin-bottom: 40px;
+}
+
+.Link{
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.Descricao{
+    margin-bottom: 7px;
+}

@@ -1,0 +1,24 @@
+img.notif{
+    width: 70px;
+}
+
+.notification{
+    width: 100%;
+}
+
+.notification>ul>li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.notification>ul>li:hover{
+    background-color: rgba(211, 211, 211, 0.582);
+}
+
+.notification>ul>li>a{
+    display: flex;
+    align-items: center;
+}

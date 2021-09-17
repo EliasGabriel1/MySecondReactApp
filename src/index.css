@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100vh;
+  font-family: 'Cormorant', serif !important;
+}
+
+body{
+  height: 99%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root{
+  height: 100vh;
+  width: 100vw;
+}
+
+.makeStyles-root-1{
+  margin: auto;
+}

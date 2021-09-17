@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+.logo {
+  /* width: 75%; */
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+
+figure {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  /* justify-content: center; */
+}

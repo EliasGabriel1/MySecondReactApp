@@ -1,0 +1,19 @@
+.box-notification {
+  width: 400px;
+  border: 1px solid rgba(167, 167, 167, 0.541);
+  position: absolute;
+  right: 217px;
+  top: 60px;
+  justify-content: center;
+  border-radius: 6px;
+  z-index: 10000;
+  background-color: #fff;
+}
+
+ul > li {
+  list-style: none;
+}
+
+.box-notification {
+  display: none;
+}

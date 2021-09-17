@@ -1,0 +1,25 @@
+.side-bar{
+    width: 25%;
+    position: absolute;
+}
+
+.Info-fact{
+    width: 80%;
+    margin: 10px auto;
+    padding: 15px;
+    border: 2px solid #94949429;
+}
+
+.Info-fact>div{
+    margin: 0px 0px 18px 0;
+}
+
+.Info-fact>div>h2{
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width: 960px){
+    .side-bar{
+        position: unset;
+    }
+}

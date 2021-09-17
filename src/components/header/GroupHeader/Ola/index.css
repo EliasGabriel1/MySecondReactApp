@@ -1,0 +1,29 @@
+.textSecondary>a{
+    color: black;
+}
+
+a.PersonNAME{
+    text-transform: capitalize;
+}
+
+a.PersonNAME:hover{
+    text-decoration: underline !important;
+}
+
+.box-loggout{
+    display: none;
+}
+
+.text-loggout:hover .box-loggout{
+    display: block;
+}
+
+.loggout>a{
+    display: flex !important;
+    align-items: center;
+}
+
+.box-loggout{
+    position: absolute;
+    right: 3%;
+}

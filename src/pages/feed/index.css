@@ -1,0 +1,54 @@
+body{
+    background-color: #edf5fa46;
+}
+
+.card-feed{
+    margin: 55px auto;
+    width: 550px;
+}
+
+.dropdown:hover .box-notification{
+    display: flex;
+}
+
+.box-notification::before{
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    /*Faz seta "apontar para baixo. Definir o valor como 'top' fará ela "apontar para cima" */
+    /*Aqui entra a cor da "aba" do balão */
+    border-bottom: 10px solid #535353;
+    top: -12px; /*localização. Experimente alterar para 'bottom'*/
+    left: 92%;
+}
+
+.header,.Info-fact{
+    background-color: #fff;
+}
+
+.MuiTypography-body2{
+    font-size: 1.35em !important;
+}
+
+@media screen and (max-width: 960px){
+    .News{
+        display: none;
+    }
+    .side-bar{
+        width: 100% !important;
+    }
+    .box-loggout{
+        display: block;
+        right: 6%;
+    }
+    .card-feed{
+        width: unset;
+    }
+    .box-notification{
+        width: 310px;
+        right: 64px;
+    }
+}

@@ -11,34 +11,34 @@ Esse Projeto começou a alguns meses quando recebi um desafio de uma agência so
   <table>
 <tr>
     <td> postcss-icon.material-design </td>
-    <td> <img src="https://shields.io/badge/version-v0.0.3-white" /></td>
+  <td> <a href="https://www.npmjs.com/package/postcss-icon.material-design"> <img src="https://shields.io/badge/version-v0.0.3-white" /></a></td>
   </tr>
   <tr>
     <td>postcss-icon</td>
-    <td><img src="https://shields.io/badge/version-v7.1.0-white" /> </td>
+    <td><a href="https://github.com/retyui/postcss-icon"><img src="https://shields.io/badge/version-v7.1.0-white" /> </a></td>
   </tr>
   <tr>
     <td>@material-ui/core </td>
-    <td> <img src="https://shields.io/badge/version-v4.12.3-black" /></td>
+    <td> <a href="https://www.npmjs.com/package/@material-ui/core"> <img src="https://shields.io/badge/version-v4.12.3-black" /> </a></td>
   </tr>
   <tr>
     <td> Axios</td>
-    <td> <img src="https://shields.io/badge/version-v0.21.4-purple" /></td>
+    <td>  <a href="https://www.npmjs.com/package/axios"> <img src="https://shields.io/badge/version-v0.21.4-purple" /></a></td>
   </tr>
   <tr>
     <td>react.js</td>
-    <td><img src="https://shields.io/badge/version-v17.0.2-lightblue" /></td>
+    <td><a href="https://www.npmjs.com/package/react"><img src="https://shields.io/badge/version-v17.0.2-lightblue" /></a></td>
   </tr>
   <tr>
     <td>Node.js</td>
-    <td> <img src="https://shields.io/badge/version-v16.2.0-green" /></td>
+    <td><a href="https://www.npmjs.com/package/node"> <img src="https://shields.io/badge/version-v16.2.0-green" /></a></td>
   </tr>
   <tr>
     <td>Além de Marte </td>
-    <td><img src="https://shields.io/badge/version-v2.0.0-blue" /></td>
+    <td><a href="https://github.com/EliasGabriel1/MeuAppEmReactJs"><img src="https://shields.io/badge/version-v2.0.0-blue" /></a></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/clouds/100/000000/github.png" /></td>
+    <td><a href="https://github.com/EliasGabriel1"><img src="https://img.icons8.com/clouds/100/000000/github.png" /></a></td>
   </tr>
 </table>
 
